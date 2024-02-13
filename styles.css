@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 70%;
+}
+
+picture {
+  margin-left: 2em;
+  border: solid 5pt;
+  display: flex;
+  flex-direction: column;
+}
+
+#img_fundamentos_01 {
+  max-width: 80%;
+}
