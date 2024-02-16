@@ -5,7 +5,7 @@ body {
 }
 
 picture {
-  margin-left: 2em;
+  /*margin-left: 2em;*/
   border: solid 5pt;
   display: flex;
   flex-direction: column;
