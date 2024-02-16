@@ -10,7 +10,6 @@ picture {
   display: flex;
   flex-direction: column;
 }
-
 #img_fundamentos_01 {
   max-width: 80%;
 }
