@@ -14,3 +14,7 @@ picture {
 #img_fundamentos_01 {
   max-width: 80%;
 }
+
+.item-lista {
+  list-style: square;
+}
