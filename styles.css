@@ -16,4 +16,6 @@ picture {
 
 .item-lista {
   list-style: square;
+  text-decoration: underline;
+  text-decoration-style: dotted;
 }
