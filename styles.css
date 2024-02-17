@@ -16,5 +16,5 @@ picture {
 
 .item-lista {
   list-style: square;
-  text-decoration: line-through;
+  text-decoration: underline;
 }
