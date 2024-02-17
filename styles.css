@@ -17,4 +17,6 @@ picture {
 .item-lista {
   list-style: square;
   text-decoration: underline;
+  /*comentário na main*/
+  font-size: 1.5em;
 }
